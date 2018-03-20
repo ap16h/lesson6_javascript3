@@ -4,19 +4,17 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 20, 2018)
 
 ### Student Name:  
-(First and Last Name)
-
+(Ali Pearson
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(I had to use certain code to access elements with their ids, class name, etc to access them and add images into the photo gallery )
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+( https://ap16h.github.io/lesson6_javascript3/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned what code would be needed to add or delete a node in the document.)
+2. (I learned how to use the getElement() function to creat a new node.)
+3. (I learned how to clone certain nodes so that I do not have to rewrite code and waste time.)
