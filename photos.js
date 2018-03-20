@@ -1,7 +1,7 @@
 /*    
     Program Name:  Photo Gallery Application
-    Author: 
-    Date:   
+    Author: Ali Pearson
+    Date:   3-20-18
     Filename: photos.js
     
  */
